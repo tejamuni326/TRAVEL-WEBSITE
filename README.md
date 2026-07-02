@@ -1,22 +1,8 @@
 # Explore India Travel Website
 
-## Student Details
+## Project Overview
 
-**Name:** Marripakula Teja
-
-**Registration Number:** YOUR_REGISTRATION_NUMBER
-
-**Assignment:** MANTRA 2026 Summer School - Frontend Website Assignment
-
-**Topic:** Travel Website
-
----
-
-## Project Description
-
-Explore India Travel is a responsive travel website developed using HTML, CSS, and JavaScript. The website allows users to explore popular tourist destinations, view tour packages, browse an image gallery, contact the travel agency, and interact with a customer support chatbot.
-
----
+Explore India Travel is a responsive travel website developed using HTML, CSS, and JavaScript. The website allows users to explore popular tourist destinations in India, view tour packages, book trips, and contact the travel agency.
 
 ## Features
 
@@ -25,13 +11,12 @@ Explore India Travel is a responsive travel website developed using HTML, CSS, a
 - About Page
 - Tour Packages
 - Gallery
+- Booking Page
 - Contact Page
-- SEO Optimized
+- Google Maps Integration
 - Tawk.to Live Chat
-- GitHub Hosted
-- Netlify Deployed
-
----
+- SEO Meta Tags
+- Mobile Friendly
 
 ## Technologies Used
 
@@ -40,42 +25,37 @@ Explore India Travel is a responsive travel website developed using HTML, CSS, a
 - JavaScript
 - GitHub
 - Netlify
+- Tawk.to Chatbot
 
----
+## Pages
 
-## Live Website
-
-https://travelwebsite326.netlify.app
-
----
-
-## GitHub Repository
-
-https://github.com/tejamuni326/TRAVEL-WEBSITE
-
----
-
-## Folder Structure
-
-```
-Travel-Website/
-│
-├── index.html
-├── about.html
-├── packages.html
-├── gallery.html
-├── contact.html
-├── style.css
-├── script.js
-├── robots.txt
-├── sitemap.xml
-├── README.md
-└── images/
-```
-
----
+- Home
+- About
+- Packages
+- Gallery
+- Booking
+- Contact
 
 ## Author
 
-Marripakula Teja
-MANTRA 2026 Summer School
+**Marripakula Teja**
+
+## Live Website
+
+https://travelwebsite326.netlify.app/
+
+## GitHub Repository
+
+https://elaborate-snickerdoodle-95ecb8.netlify.app/
+
+## Future Improvements
+
+- Online payment integration
+- User login system
+- Hotel booking
+- Travel reviews
+- Admin dashboard
+
+## License
+
+This project was developed for educational purposes.
