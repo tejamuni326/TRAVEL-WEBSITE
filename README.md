@@ -42,11 +42,11 @@ Explore India Travel is a responsive travel website developed using HTML, CSS, a
 
 ## Live Website
 
-https://travelwebsite326.netlify.app/
+https://elaborate-snickerdoodle-95ecb8.netlify.app/
 
 ## GitHub Repository
 
-https://elaborate-snickerdoodle-95ecb8.netlify.app/
+https://github.com/tejamuni326/TRAVEL-WEBSITE
 
 ## Future Improvements
 
