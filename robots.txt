@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://travelwebsite326.netlify.app/sitemap.xml
